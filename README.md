@@ -10,8 +10,8 @@ and
 
 ```pip install pyautogui``` or ```pip3 install pyautogui```
 ## Running
-Use your preferred IDE (I personally just ```IDLE``` or ```VS Code```) or type
+Use your preferred IDE (I personally use ```IDLE``` or ```VS Code```) or type
 
 ```python3 name-of-file-here.py```
 
-in the command prompt or terminal.
+in the command prompt or terminal. (You do have to be in the directory of the repository)
